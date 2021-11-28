@@ -1,9 +1,44 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
-  text-align: center;
+button {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 30px;
+  cursor: pointer;
 }
+
+.primary {
+  background-color: #1890FF;
+  color: white;
+}
+
+.danger {
+  background-color: rgb(255, 29, 29);
+  color: white
+}
+
+.fb {
+  background-color: darkblue;
+  color: yellow;
+
+}
+
+.gs {
+  background-color: red;
+  color: yellow;
+
+}
+
+.bjk {
+  background-color: black;
+  color: white; 
+}
+.ts {
+  background-color: maroon;
+  color: blue;
+}
+
+
+
+
